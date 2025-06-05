@@ -1,0 +1,4 @@
+favorite_season = "Summer"
+favorite_temperature = "75"
+
+print(f"My favorite season is {favorite_season} and I love it when it is {favorite temperature}")
